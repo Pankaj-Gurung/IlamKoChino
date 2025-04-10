@@ -4,7 +4,7 @@ const Navbar = (props) => {
   return (
     <div>
       <header>
-        <div>Ilam Ko Chino</div>
+        <h1>Ilam Ko Chino</h1>
         <nav>
           <Link to="/">Home</Link>
           <Link to="/shop">Shop</Link>
