@@ -1,0 +1,25 @@
+.navbar-container {
+  header {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  nav {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .button-wrapper {
+    display: flex;
+  }
+}

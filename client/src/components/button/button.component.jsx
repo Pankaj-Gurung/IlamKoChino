@@ -4,8 +4,8 @@ const Button = (props) => {
   const { children } = props;
   return (
     <>
-      <div>
-        <button>children</button>
+      <div className="button-container">
+        <button>{children}</button>
       </div>
     </>
   );
