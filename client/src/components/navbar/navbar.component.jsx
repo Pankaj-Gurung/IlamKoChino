@@ -5,11 +5,13 @@ const Navbar = (props) => {
   return (
     <div className="navbar-container">
       <header>
-        <i className="logo">Ilam Ko Chino</i>
-        <nav className="link-wrapper">
-          <Link to="/">Home</Link>
-          <Link to="/shop">Shop</Link>
-        </nav>
+        <div className="left-wrapper">
+          <i className="logo">Ilam Ko Chino</i>
+          <nav className="link-wrapper">
+            <Link to="/">Home</Link>
+            <Link to="/shop">Shop</Link>
+          </nav>
+        </div>
         <div className="button-wrapper">
           <Button>Login</Button>
           <Button>Sign Up</Button>
