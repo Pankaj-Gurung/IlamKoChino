@@ -1,7 +1,7 @@
 import React from "react";
 
 const Card = (props) => {
-  const {children} = props;
+  const { children, title } = props;
   return <div>Card</div>;
 };
 
