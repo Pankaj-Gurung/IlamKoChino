@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = (props) => {
   const { children, title } = props;
-  return <div>Card</div>;
+  return <div style={style}>Card</div>;
 };
 
 export default Card;
