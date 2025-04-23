@@ -9,7 +9,7 @@ const Navbar = (props) => {
         <nav className="link-wrapper">
           <Link to="/">Home</Link>
           <Link to="/shop">Shop</Link>
-          <Link to="/shop">Shop</Link>
+          <Link to="/shop">Contact</Link>
           <Link to="/shop">Shop</Link>
           <Link to="/shop">Shop</Link>
         </nav>
