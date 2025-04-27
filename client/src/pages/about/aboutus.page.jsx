@@ -2,7 +2,11 @@ import React from 'react'
 
 const Aboutus = () => {
   return (
-    <div>About us Page</div>
+    <main className='aboutus-container'>
+      <div>
+        
+      </div>
+    </main>
   )
 }
 
