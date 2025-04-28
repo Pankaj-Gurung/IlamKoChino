@@ -4,7 +4,7 @@ const Aboutus = () => {
   return (
     <main className='aboutus-container'>
       <div>
-        
+        ABout us Page
       </div>
     </main>
   )
