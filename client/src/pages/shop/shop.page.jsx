@@ -4,7 +4,7 @@ const Shop = () => {
   return (
     <>
     <div className='shop-container'>
-      Shop Page
+      Shop Page section
     </div>
     </>
   )
